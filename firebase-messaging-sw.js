@@ -6,7 +6,13 @@ const routMassageLabel = ['本日はゴミ回収の日です。', 'Today is the 
 const notiMassageLabel = ['新しいお知らせがあります。', 'I have a new announcement.', 'Tôi có một thông báo mới.'];
 
 const firebaseConfig = {
-  // FCM コードコピー
+  apiKey: "AIzaSyD8pWvtE9oV5yf8l2cygkZGxYGVEl18mFA",
+  authDomain: "sakamina-5374.firebaseapp.com",
+  projectId: "sakamina-5374",
+  storageBucket: "sakamina-5374.appspot.com",
+  messagingSenderId: "209418200635",
+  appId: "1:209418200635:web:d1b8e9778441421fcfde1e",
+  measurementId: "G-5ZHQQJ0LH3"
 };
 
 firebase.initializeApp(firebaseConfig);
