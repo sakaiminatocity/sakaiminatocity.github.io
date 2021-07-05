@@ -28,7 +28,7 @@ messaging.requestPermission()
   console.log(token);
 });
 
-messaging.usePublicVapidKey('BGUPPKNNy5HCBT1irshBLKp08IMhEhObLvJQjyO8iu8oP7WT2A41WkrV-CsccsMkm-o8fsuIUIEHJSYrcLGdrf4');
+messaging.usePublicVapidKey('BJiMnbjaA-tnFSA4NglJ82POn5w_6sds7bg1Q1ZDOXm9qqzauZZcU14cHDPYunrUcX3a2aI1F_OFyK8XYFMer0M');
 messaging.onMessage( payload => {
   console.log('onMessage:',payload);
 });
