@@ -99,9 +99,9 @@ foreach($send_notification_id_str as $send_notification_id_array) {
 
 $title = '5374.jp -sakaiminato-';
 $body = '';
-$url= '<APP URL>';
-$token = '<登録トークン>';
-$server_key = '<サーバーキー>';
+$url= 'https://sakaiminatocity.github.io/';
+$token = 'eq3caegeKZkEoComflPm3t:APA91bErtCe2hGFI0aQWhoWx3XZBNJA4yd2d6ijAqmaBUyYKuyNswWn4bzwwSRYd1bRp9fAoqnjibEnBwMXie1sMI0-5rduUUMnuJdpjBuOO-3I1100tjJ4mwoX4RMMphaupOzZj3132';
+$server_key = 'AAAAMMJMJjs:APA91bG_17MO2pEtf1iHvfEygmPkfN_y_oCXp3W7i45G7bPxoHO5jxb9IfqApPy0D1NYohGiofSpniwHXUUI0B6Qp-oXxS5BiT2bfxqANMBrnohMFSqBsOp-ash3e4h9hJXXloqupT8b';
 
 $json = '{
   "data":{"title": "'.$title.'","body": "'.$body.'", "click_action": "'.$url.'", "area": "'.$send_area_id.'", "noti": "'.$send_notification_id.'"},
