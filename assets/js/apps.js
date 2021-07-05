@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyD2I5PORGOzk6X1MCgYRBbj2nN2U63e76w",
-  authDomain: "test-4aae7.firebaseapp.com",
-  projectId: "test-4aae7",
-  storageBucket: "test-4aae7.appspot.com",
-  messagingSenderId: "186971164937",
-  appId: "1:186971164937:web:cd1b7153ae0b9378ee83d8",
-  measurementId: "G-YQWPR4LFXX"
+  apiKey: "AIzaSyD8pWvtE9oV5yf8l2cygkZGxYGVEl18mFA",
+  authDomain: "sakamina-5374.firebaseapp.com",
+  projectId: "sakamina-5374",
+  storageBucket: "sakamina-5374.appspot.com",
+  messagingSenderId: "209418200635",
+  appId: "1:209418200635:web:d1b8e9778441421fcfde1e",
+  measurementId: "G-5ZHQQJ0LH3"
 };
 
 firebase.initializeApp(firebaseConfig);
