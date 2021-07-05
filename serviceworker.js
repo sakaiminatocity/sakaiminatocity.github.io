@@ -1,18 +1,18 @@
 const cacheName = '5374.jp-caches';
 const urlsToCache = [
-  '/5374.jp/',
-  '/5374.jp/favicon.ico',
-  '/5374.jp/assets/css/style.css',
-  '/5374.jp/assets/css/style.css.map',
-  '/5374.jp/assets/css/customize.css',
-  '/5374.jp/assets/js/script.js',
-  '/5374.jp/assets/images/logo.jpg',
-  '/5374.jp/assets/images/00105743-TEesoV.pdf',
-  '/5374.jp/assets/images/カレンダー2018.pdf',
-  '/5374.jp/assets/images/自己搬入について.png',
-  '/5374.jp/assets/images/収集処理しないごみ.jpg',
-  '/5374.jp/assets/images/処理できないごみ等.png',
-  '/5374.jp/assets/images/直接施設搬入.jpg'
+  '/sakaiminatocity.github.io/',
+  '/sakaiminatocity.github.io/favicon.ico',
+  '/sakaiminatocity.github.io/assets/css/style.css',
+  '/sakaiminatocity.github.io/assets/css/style.css.map',
+  '/sakaiminatocity.github.io/assets/css/customize.css',
+  '/sakaiminatocity.github.io/assets/js/script.js',
+  '/sakaiminatocity.github.io/assets/images/logo.jpg',
+  '/sakaiminatocity.github.io/assets/images/00105743-TEesoV.pdf',
+  '/sakaiminatocity.github.io/assets/images/カレンダー2018.pdf',
+  '/sakaiminatocity.github.io/assets/images/自己搬入について.png',
+  '/sakaiminatocity.github.io/assets/images/収集処理しないごみ.jpg',
+  '/sakaiminatocity.github.io/assets/images/処理できないごみ等.png',
+  '/sakaiminatocity.github.io/assets/images/直接施設搬入.jpg'
   // Test Directory.
   // '/',
   // '/favicon.ico',
