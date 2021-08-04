@@ -1,0 +1,17 @@
+[
+  {
+    "ID": 0,
+    "LangName": "日本語",
+    "JpnName": ""
+  },
+  {
+    "ID": 1,
+    "LangName": "English",
+    "JpnName": "英語"
+  },
+  {
+    "ID": 2,
+    "LangName": "tiếng Việt",
+    "JpnName": "ベトナム語"
+  }
+]
